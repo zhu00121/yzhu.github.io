@@ -35,7 +35,7 @@ My research is at the intersection of multi-modal signal processing and deep lea
 ## Publications (2023)
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
 
--**[Oct. 2023]** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4506673" target='_blank'> *Spectral-Temporal Saliency Masks and Modulation Tensorgrams for Generalizable COVID-19 Detection*</a>, *techrxiv* (revised at **Computer Speech & Language**)
+- **[Oct. 2023]** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4506673" target='_blank'> *Spectral-Temporal Saliency Masks and Modulation Tensorgrams for Generalizable COVID-19 Detection*</a>, *techrxiv* (revised at **Computer Speech & Language**)
 - **[Sep. 2023]** <a href="https://arxiv.org/abs/2309.08099" target='_blank'> *Characterizing the temporal dynamics of universal speech representations for generalizable deepfake detection*</a>, **arxiv** (under review at **ICASSP 2024**)
 - **[Sep. 2023]** <a href="" target='_blank'> *Early prediction of honeybee hive winter survivability using multi-modal sensor data*</a> accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**
 - **[Sep. 2023]** <a href="" target='_blank'> *Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings*</a> accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**
