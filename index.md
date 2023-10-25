@@ -45,10 +45,10 @@ My research is at the intersection of multi-modal signal processing and deep lea
 ## Datasets, toolboxes, and other useful resources
 
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://github.com/MuSAELab/Multimodal-dataset-catalog" target="_blank">*Multimodal dataset catalog*
-- <a href="https://github.com/MuSAELab/COVID_Cough_Phases">*Segmented and annotated COVID-19 cough phases*
-- <a href="https://github.com/zhu00121/Universal-representation-dynamics-of-deepfake-speech" target="_blank">*Modulation Dynamics Block for Generalizable Deepfake Speech Detection*</a>
-- <a href="https://github.com/MuSAELab/modulation_filterbanks" target="_blank">*Speech modulation spectrum toolbox*</a>
+- <a href="https://github.com/MuSAELab/Multimodal-dataset-catalog" target="_blank">Multimodal dataset catalog
+- <a href="https://github.com/MuSAELab/COVID_Cough_Phases">Segmented and annotated COVID-19 cough phases
+- <a href="https://github.com/zhu00121/Universal-representation-dynamics-of-deepfake-speech" target="_blank">Modulation Dynamics Block for Generalizable Deepfake Speech Detection</a>
+- <a href="https://github.com/MuSAELab/modulation_filterbanks" target="_blank">Speech modulation spectrum toolbox</a>
 - <a href="https://github.com/MuSAELab/Modulation_spectrum_course_exercises" target="_blank">Lecture code for the online workshop with UPFE (Brazil)
 
 
