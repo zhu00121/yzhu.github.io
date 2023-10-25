@@ -12,7 +12,7 @@ My research is at the intersection of multi-modal signal processing and deep lea
 ## Research Interests
 - **Multimodal Signal Processing:** Audio, speech, sensors, and bio-signal analysis
 - **Deep Learning:** Generalizable and explainable representations; Self-supervised learning
-- **Speech:** Voice conversion and anonymization; Paralinguistics tasks
+- **Speech:** Voice conversion and anonymization; Characterization of speech abnormalities
 - **Cybersecurity:** Deepfake speech and adversarial attack detection
 - **Healthcare:** Disease detection; sound event detection
 
@@ -28,27 +28,26 @@ My research is at the intersection of multi-modal signal processing and deep lea
 
 
 
+## Collaboration papers
 
+<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
 
-
-
-## Collaboration
-
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
-- **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
-- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
+- **[Oct, 2023]** <a href="" target='_blank'> *Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings*</a> has been accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**
+- **[Oct. 2023]** <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202303835" target="_blank"> *Neuromorphic Computing via Fission-based Broadband Frequency Generation*</a> has been published at **Advanced Science**.
+- **[May, 2023]** <a href="" target="_blank"> *Assessing the Vulnerability of Self-Supervised Speech Representations for Keyword Spotting Under White-Box Adversarial Attacks*</a> has been accepted at **2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023**
 
 
 {% include_relative _includes/services.md %}
 
 
-## Useful Resources
+## Datasets, toolboxes, and other useful resources
 
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
+- <a href="https://github.com/MuSAELab/Multimodal-dataset-catalog" target="_blank">*Multimodal dataset catalog*
+- <a href="https://github.com/MuSAELab/COVID_Cough_Phases">*Segmented and annotated COVID-19 cough phases*
+- <a href="https://github.com/zhu00121/Universal-representation-dynamics-of-deepfake-speech" target="_blank">*Modulation Dynamics Block for Generalizable Deepfake Speech Detection*</a>
+- <a href="https://github.com/MuSAELab/modulation_filterbanks" target="_blank">*Speech modulation spectrum toolbox*</a>
+- <a href="https://github.com/MuSAELab/Modulation_spectrum_course_exercises" target="_blank">Lecture code for the online workshop with UPFE (Brazil)
 
 
 
