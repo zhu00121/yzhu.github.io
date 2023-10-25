@@ -16,6 +16,7 @@ My research is at the intersection of multi-modal signal processing and deep lea
 - **Cybersecurity:** Deepfake speech and adversarial attack detection
 - **Healthcare:** Disease detection; sound event detection
 
+
 ## Awards
 - **[June. 2023]** <a href="https://2023.ieeeicassp.org/" target="_blank">*Rising Star in Signal Processing* at ICASSP 2023 </a> for outstanding PhD research
 
@@ -26,14 +27,17 @@ My research is at the intersection of multi-modal signal processing and deep lea
 
 <!--- {% include_relative _includes/talks.md %} --->
 
+
 ## News
 - **[Oct, 2023]** Two papers on AI-driven beehive monitoring accepted at <a href="https://www.metroagrifor.org/index" target='_blank'>**2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**</a>
 - **[Aug, 2023]** Presented our paper on voice anonymization at <a href="https://spsc-symposium2023.mobileds.de/" target='_blank'> **3rd Symposium on Security and Privacy in Speech Communication**</a>
 
-## Publications (selected)
+## Publications (2023)
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
 
-- **[Oct, 2023]** <a href="" target='_blank'> *Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings*</a> has been accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**
+- **[Sep, 2023]** <a href="https://arxiv.org/abs/2309.08099" target='_blank'> *Characterizing the temporal dynamics of universal speech representations for generalizable deepfake detection*</a>, **arxiv** (under review at **ICASSP 2024**)
+- **[Sep, 2023]** <a href="" target='_blank'> *Early prediction of honeybee hive winter survivability using multi-modal sensor data*</a> has been accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**
+- **[Sep, 2023]** <a href="" target='_blank'> *Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings*</a> has been accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**
 - **[Oct. 2023]** <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202303835" target="_blank"> *Neuromorphic Computing via Fission-based Broadband Frequency Generation*</a> has been published at **Advanced Science**.
 - **[May, 2023]** <a href="" target="_blank"> *Assessing the Vulnerability of Self-Supervised Speech Representations for Keyword Spotting Under White-Box Adversarial Attacks*</a> has been accepted at **2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023**
 
