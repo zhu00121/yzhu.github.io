@@ -22,13 +22,15 @@ My research is at the intersection of multi-modal signal processing and deep lea
 
 <!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/projects.md %}
+<!-- {% include_relative _includes/projects.md %} -->
 
-{% include_relative _includes/talks.md %}
+<!-- {% include_relative _includes/talks.md %} -->
 
+## News
+- **[Oct, 2023]** Two papers on AI-driven beehive monitoring accepted at <a href="https://www.metroagrifor.org/index" target='_blank'>**2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**</a>
+- **[Aug, 2023]** Presented our paper on voice anonymization at <a href="https://spsc-symposium2023.mobileds.de/" target='_blank'> **3rd Symposium on Security and Privacy in Speech Communication**</a>
 
-
-## Collaboration papers
+## Publications
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
 
@@ -37,7 +39,7 @@ My research is at the intersection of multi-modal signal processing and deep lea
 - **[May, 2023]** <a href="" target="_blank"> *Assessing the Vulnerability of Self-Supervised Speech Representations for Keyword Spotting Under White-Box Adversarial Attacks*</a> has been accepted at **2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023**
 
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
 
 
 ## Datasets, toolboxes, and other useful resources
