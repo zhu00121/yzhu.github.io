@@ -38,7 +38,7 @@ My research is at the intersection of multi-modal signal processing and deep lea
 - **[May, 2023]** <a href="" target="_blank"> *Assessing the Vulnerability of Self-Supervised Speech Representations for Keyword Spotting Under White-Box Adversarial Attacks*</a> has been accepted at **2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023**
 
 
-<!--- {% include_relative _includes/services.md %} --->
+{% include_relative _includes/services.md %}
 
 
 ## Datasets, toolboxes, and other useful resources
