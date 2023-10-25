@@ -31,7 +31,6 @@ My research is at the intersection of multi-modal signal processing and deep lea
 - **[Aug, 2023]** Presented our paper on voice anonymization at <a href="https://spsc-symposium2023.mobileds.de/" target='_blank'> **3rd Symposium on Security and Privacy in Speech Communication**</a>
 
 ## Publications
-
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
 
 - **[Oct, 2023]** <a href="" target='_blank'> *Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings*</a> has been accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**
