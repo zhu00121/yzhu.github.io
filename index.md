@@ -20,11 +20,11 @@ My research is at the intersection of multi-modal signal processing and deep lea
 - **[June. 2023]** <a href="https://2023.ieeeicassp.org/" target="_blank">*Rising Star in Signal Processing* at ICASSP 2023 </a> for outstanding PhD research
 
 
-<!-- - {% include_relative _includes/publications.md %} -->
+<!--- {% include_relative _includes/publications.md %} --->
 
-<!-- - {% include_relative _includes/projects.md %} -->
+<!--- {% include_relative _includes/projects.md %} --->
 
-<!-- - {% include_relative _includes/talks.md %} -->
+<!--- {% include_relative _includes/talks.md %} --->
 
 ## News
 - **[Oct, 2023]** Two papers on AI-driven beehive monitoring accepted at <a href="https://www.metroagrifor.org/index" target='_blank'>**2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**</a>
@@ -38,7 +38,7 @@ My research is at the intersection of multi-modal signal processing and deep lea
 - **[May, 2023]** <a href="" target="_blank"> *Assessing the Vulnerability of Self-Supervised Speech Representations for Keyword Spotting Under White-Box Adversarial Attacks*</a> has been accepted at **2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023**
 
 
-<!-- {% include_relative _includes/services.md %} -->
+<!--- {% include_relative _includes/services.md %} --->
 
 
 ## Datasets, toolboxes, and other useful resources
