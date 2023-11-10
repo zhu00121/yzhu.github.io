@@ -18,10 +18,11 @@ My research is at the intersection of multi-modal signal processing and deep lea
 
 
 ## Awards
-- **[June. 2023]** <a href="https://2023.ieeeicassp.org/" target="_blank">*Rising Star in Signal Processing* at ICASSP 2023 </a> for outstanding PhD research
+- **[June. 2023]** <a href="https://2023.ieeeicassp.org/rising-stars-workshop/" target="_blank">*Rising Star in Signal Processing* at ICASSP 2023 </a> for outstanding PhD research
 
 
 ## News
+- **[Nov, 2023]** Co-authored paper *Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings* received **Best Paper Presented by a Young Researcher Award** at MetroAgriFor
 - **[Oct, 2023]** Two papers on AI-driven beehive monitoring accepted at <a href="https://www.metroagrifor.org/index" target='_blank'>**2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**</a>
 - **[Aug, 2023]** Presented our paper on voice anonymization at <a href="https://spsc-symposium2023.mobileds.de/" target='_blank'> **3rd Symposium on Security and Privacy in Speech Communication**</a>
 
@@ -32,7 +33,7 @@ My research is at the intersection of multi-modal signal processing and deep lea
 - **[Oct. 2023]** <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202303835" target="_blank"> *Neuromorphic Computing via Fission-based Broadband Frequency Generation*</a> published at **Advanced Science**.
 - **[Sep. 2023]** <a href="https://arxiv.org/abs/2309.08099" target='_blank'> *Characterizing the temporal dynamics of universal speech representations for generalizable deepfake detection*</a>, **arxiv** (under review at **ICASSP 2024**)
 - **[Sep. 2023]** <a href="" target='_blank'> *Early prediction of honeybee hive winter survivability using multi-modal sensor data*</a> accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**
-- **[Sep. 2023]** <a href="" target='_blank'> *Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings*</a> accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**
+- **[Sep. 2023]** <a href="" target='_blank'> *Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings*</a> accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**, **Best Paper Presented by a Young Researcher Award**
 - **[Jul. 2023]** <a href="" target="_blank"> *Investigating Biases in COVID-19 Diagnostic Systems Processed with Automated Speech Anonymization Algorithms*</a> accepted at **ISCA 3rd Symposium on Security and Privacy in Speech Communication (SPSC)**
 - **[May. 2023]** <a href="" target="_blank"> *Assessing the Vulnerability of Self-Supervised Speech Representations for Keyword Spotting Under White-Box Adversarial Attacks*</a> accepted at **2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023**
 - **[Apr. 2023]** <a href="https://ieeexplore.ieee.org/abstract/document/10097559" target='_blank'> *COVID-19 Detection via Fusion of Modulation Spectrum and Linear Prediction Speech Features*</a> published at **IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE-TASLP)**
