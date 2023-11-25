@@ -22,13 +22,13 @@ My research is at the intersection of multi-modal signal processing and deep lea
 
 
 ## News
+- **[Nov, 2023]** Releasing a one-year-long multi-modal beehive dataset. Check our <a href="https://zhu00121.github.io/MSPB-webpage/" target='_blank'> *project website*</a>!
 - **[Nov, 2023]** Co-authored paper "*Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings*" received **Best Paper Presented by a Young Researcher Award** at MetroAgriFor
 - **[Oct, 2023]** Two papers on AI-driven beehive monitoring accepted at <a href="https://www.metroagrifor.org/index" target='_blank'>**2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**</a>
-- **[Aug, 2023]** Presented our paper on voice anonymization at <a href="https://spsc-symposium2023.mobileds.de/" target='_blank'> **3rd Symposium on Security and Privacy in Speech Communication**</a>
 
 ## Publications (2023)
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
 
+- **[Nov. 2023]** <a href="https://arxiv.org/abs/2311.10876" target='_blank'> *MSPB:a longitudinal multi-sensor dataset with phenotypic trait measurements from honeybees*</a>, **arXiv** (under review at **Nature Scientific Data**)
 - **[Oct. 2023]** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4506673" target='_blank'> *Spectral-Temporal Saliency Masks and Modulation Tensorgrams for Generalizable COVID-19 Detection*</a>, **techrxiv** (revised at **Computer Speech & Language**)
 - **[Oct. 2023]** <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202303835" target="_blank"> *Neuromorphic Computing via Fission-based Broadband Frequency Generation*</a> published at **Advanced Science**.
 - **[Sep. 2023]** <a href="https://arxiv.org/abs/2309.08099" target='_blank'> *Characterizing the temporal dynamics of universal speech representations for generalizable deepfake detection*</a>, **arxiv** (under review at **ICASSP 2024**)
