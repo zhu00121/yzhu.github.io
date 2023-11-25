@@ -37,7 +37,7 @@ My research is at the intersection of multi-modal signal processing and deep lea
 - **[Jul. 2023]** <a href="" target="_blank"> *Investigating Biases in COVID-19 Diagnostic Systems Processed with Automated Speech Anonymization Algorithms*</a> accepted at **ISCA 3rd Symposium on Security and Privacy in Speech Communication (SPSC)**
 - **[May. 2023]** <a href="" target="_blank"> *Assessing the Vulnerability of Self-Supervised Speech Representations for Keyword Spotting Under White-Box Adversarial Attacks*</a> accepted at **2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023**
 - **[Apr. 2023]** <a href="https://ieeexplore.ieee.org/abstract/document/10097559" target='_blank'> *COVID-19 Detection via Fusion of Modulation Spectrum and Linear Prediction Speech Features*</a> published at **IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE-TASLP)**
-- **[Apr. 2023]** <a href="https://arxiv.org/abs/2304.02181" target='_blank'> *On the Impact of Voice Anonymization on Speech-Based COVID-19 Detection*</a>, *arxiv*, under review at **IEEE-TIFS**
+- **[Apr. 2023]** <a href="https://arxiv.org/abs/2304.02181" target='_blank'> *On the Impact of Voice Anonymization on Speech-Based COVID-19 Detection*</a>, *arxiv*, revised at **IEEE-TIFS**
 
 
 {% include_relative _includes/services.md %}
