@@ -4,15 +4,14 @@ layout: homepage
 
 ## About Me
 
-I'm currently a 3rd-year PhD candidate at <a href="https://musaelab.ca/" target="_blank"> Multisensory Signal Analysis and Enhancement Lab (MuSAE)</a>, <a href="https://inrs.ca/en/" target="_blank"> National Institute of Scientific Research (INRS)</a> (Montreal, Canada), supervised by <a href="https://inrs.ca/en/research/professors/tiago-h-falk/" target="_blank"> Prof.Tiago H. Falk</a>.
+I'm currently a 4th-year PhD candidate at <a href="https://musaelab.ca/" target="_blank"> Multisensory Signal Analysis and Enhancement Lab (MuSAE)</a>, <a href="https://inrs.ca/en/" target="_blank"> National Institute of Scientific Research (INRS)</a> (Montreal, Canada), supervised by <a href="https://inrs.ca/en/research/professors/tiago-h-falk/" target="_blank"> Prof.Tiago H. Falk</a>.
 
-My research is at the intersection of multi-modal signal processing and deep learning, with a focus on audio and speech analysis. My PhD research is centred around the development of generalizable, trustworthy, and secure audio representations. Some of the main application fields cover voice conversion/anonymization, deepfake speech and adversarial attack detection, respiratory sound understanding and health diagnostics. I also work part-time with <a href="https://www.nectar.buzz/" target="_blank"> Nectar</a> on multi-modal sensor data analysis and machine learning for automated beehive monitoring.
-
+My research is at the intersection of multi-modal signal processing and deep learning, with a focus on audio and speech analysis. My PhD research is centred around the development of generalizable, trustworthy, and secure audio representations. Some of the main application fields cover voice conversion/anonymization, deepfake speech and adversarial attack detection, respiratory sound understanding and health diagnostics.
 
 ## Research Interests
 - **Multimodal Signal Processing:** Audio, speech, sensors, and bio-signal analysis
-- **Deep Learning:** Generalizable and explainable representations; Self-supervised learning
-- **Speech:** Voice conversion and anonymization; Characterization of speech abnormalities
+- **Deep Learning:** Self-supervised learning; Representation learning; Knowledge distillation
+- **Speech:** Speech synthesis; Anonymization; Speech health diagnostics; 
 - **Cybersecurity:** Deepfake speech and adversarial attack detection
 - **Healthcare:** Disease detection; sound event detection
 
@@ -22,9 +21,9 @@ My research is at the intersection of multi-modal signal processing and deep lea
 
 
 ## News
-- **[Nov, 2023]** Releasing a one-year-long multi-modal beehive dataset. Check our <a href="https://zhu00121.github.io/MSPB-webpage/" target='_blank'> *project website*</a>!
-- **[Nov, 2023]** Co-authored paper "*Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings*" received **Best Paper Presented by a Young Researcher Award** at MetroAgriFor
-- **[Oct, 2023]** Two papers on AI-driven beehive monitoring accepted at <a href="https://www.metroagrifor.org/index" target='_blank'>**2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**</a>
+- **[Apr, 2024]** Two Oral presentations at ICASSP 2024 on deepfake detection and speech health diagnostics.
+- **[Apr, 2024]** Our paper on <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10504772" target='_blank'> *Speech anonymization for health monitoring*</a> is published at IEEE-TIFS!
+- **[Jan, 2024]** Interning as an Applied Scientist on audio deepfake detection at Reality Defender.
 
 ## Publications (2023)
 
