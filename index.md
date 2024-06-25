@@ -6,14 +6,13 @@ layout: homepage
 
 I'm currently a 4th-year PhD candidate at <a href="https://musaelab.ca/" target="_blank"> Multisensory Signal Analysis and Enhancement Lab (MuSAE)</a>, <a href="https://inrs.ca/en/" target="_blank"> National Institute of Scientific Research (INRS)</a> (Montreal, Canada), supervised by <a href="https://inrs.ca/en/research/professors/tiago-h-falk/" target="_blank"> Prof.Tiago H. Falk</a>.
 
-My research is at the intersection of multi-modal signal processing and deep learning, with a focus on audio and speech analysis. My PhD research is centred around the development of generalizable, trustworthy, and secure audio representations. Some of the main application fields cover voice conversion/anonymization, deepfake speech and adversarial attack detection, respiratory sound understanding and health diagnostics.
+My research is at the intersection of multi-modal signal processing and deep learning, with a focus on audio and speech analysis. My PhD research is centred around the development of generalizable, trustworthy, and secure speech applications. Some of the main application fields cover voice conversion/anonymization, deepfake speech and adversarial attack detection, and health diagnostics.
 
 ## Research Interests
 - **Multimodal Signal Processing:** Audio, speech, sensors, and bio-signal analysis
-- **Deep Learning:** Self-supervised learning; Representation learning; Knowledge distillation
+- **Deep Learning:** Self-supervised learning; Representation learning
 - **Speech:** Speech synthesis; Anonymization; Speech health diagnostics; 
 - **Cybersecurity:** Deepfake speech and adversarial attack detection
-- **Healthcare:** Disease detection; sound event detection
 
 
 ## Awards
