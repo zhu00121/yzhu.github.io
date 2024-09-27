@@ -6,44 +6,37 @@ layout: homepage
 
 I'm currently a 4th-year PhD candidate at <a href="https://musaelab.ca/" target="_blank"> Multisensory Signal Analysis and Enhancement Lab (MuSAE)</a>, <a href="https://inrs.ca/en/" target="_blank"> National Institute of Scientific Research (INRS)</a> (Montreal, Canada), supervised by <a href="https://inrs.ca/en/research/professors/tiago-h-falk/" target="_blank"> Prof.Tiago H. Falk</a>.
 
-My research is at the intersection of multi-modal signal processing and deep learning, with a focus on audio and speech analysis. My PhD research is centred around the development of generalizable, trustworthy, and secure speech applications. Some of the main application fields cover voice conversion/anonymization, deepfake speech and adversarial attack detection, and health diagnostics.
+My research is in general focused on learning representations that are generalizable, robust, and explainable from multi modalities (e.g., sound, speech, biosignals, sensor signals). My PhD projects are centered around sound and speech tasks, before that I worked on physiological signals (e.g., sEMG) and human-machine interface during my Master's at UMN.
 
 ## Research Interests
-- **Multimodal Signal Processing:** Audio, speech, sensors, and bio-signal analysis
+- **Multimodal Signal Processing:** Audio, speech, sensors, and bio-signal analysis and understanding
 - **Deep Learning:** Self-supervised learning; Representation learning
-- **Speech:** Speech synthesis; Anonymization; Speech health diagnostics; 
-- **Cybersecurity:** Deepfake speech and adversarial attack detection
+- **Speech:** Classification, detection, and generation 
 
 
-## Awards
-- **[June. 2023]** <a href="https://2023.ieeeicassp.org/rising-stars-workshop/" target="_blank">*Rising Star in Signal Processing* at ICASSP 2023 </a> for outstanding PhD research
+## Awards 
+- **[June. 2023]** <a href="https://2023.ieeeicassp.org/rising-stars-workshop/" target="_blank">*Rising Star in Signal Processing* at ICASSP 2023 </a> for PhD research
 
 
 ## News
+- **[Sept, 2024]** Paper accepted at NeurIPS 2024 on a novel speech SSL representation for deepfake deteciton!
 - **[Apr, 2024]** Two Oral presentations at ICASSP 2024 on deepfake detection and speech health diagnostics.
-- **[Apr, 2024]** Our paper on <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10504772" target='_blank'> *Speech anonymization for health monitoring*</a> is published at IEEE-TIFS!
-- **[Jan, 2024]** Interning as an Applied Scientist on audio deepfake detection at Reality Defender.
+- **[Apr, 2024]** Paper on <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10504772" target='_blank'> *Speech anonymization for health monitoring*</a> is published at IEEE-TIFS!
+- **[Jan, 2024]** Interning as an Applied Scientist on audio deepfake detection at Reality Defender (Finished in August).
 
-## Publications (2023)
+## Selected Publications (2024)
 
-- **[Nov. 2023]** <a href="https://arxiv.org/abs/2311.10876" target='_blank'> *MSPB:a longitudinal multi-sensor dataset with phenotypic trait measurements from honeybees*</a>, **arXiv** (under review at **Nature Scientific Data**)
-- **[Oct. 2023]** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4506673" target='_blank'> *Spectral-Temporal Saliency Masks and Modulation Tensorgrams for Generalizable COVID-19 Detection*</a>, **techrxiv** (revised at **Computer Speech & Language**)
-- **[Oct. 2023]** <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202303835" target="_blank"> *Neuromorphic Computing via Fission-based Broadband Frequency Generation*</a> published at **Advanced Science**.
-- **[Sep. 2023]** <a href="https://arxiv.org/abs/2309.08099" target='_blank'> *Characterizing the temporal dynamics of universal speech representations for generalizable deepfake detection*</a>, **arxiv** (under review at **ICASSP 2024**)
-- **[Sep. 2023]** <a href="" target='_blank'> *Early prediction of honeybee hive winter survivability using multi-modal sensor data*</a> accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**
-- **[Sep. 2023]** <a href="" target='_blank'> *Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings*</a> accepted at **2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2023**, **Best Paper Presented by a Young Researcher Award**
-- **[Jul. 2023]** <a href="" target="_blank"> *Investigating Biases in COVID-19 Diagnostic Systems Processed with Automated Speech Anonymization Algorithms*</a> accepted at **ISCA 3rd Symposium on Security and Privacy in Speech Communication (SPSC)**
-- **[May. 2023]** <a href="" target="_blank"> *Assessing the Vulnerability of Self-Supervised Speech Representations for Keyword Spotting Under White-Box Adversarial Attacks*</a> accepted at **2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023**
-- **[Apr. 2023]** <a href="https://ieeexplore.ieee.org/abstract/document/10097559" target='_blank'> *COVID-19 Detection via Fusion of Modulation Spectrum and Linear Prediction Speech Features*</a> published at **IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE-TASLP)**
-- **[Apr. 2023]** <a href="https://arxiv.org/abs/2304.02181" target='_blank'> *On the Impact of Voice Anonymization on Speech-Based COVID-19 Detection*</a>, *arxiv*, revised at **IEEE-TIFS**
+- **[Sept, 2024]** <a href="https://arxiv.org/abs/2407.18517" target='_blank'> *SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection*</a>, accepted at **NeurIPS 2024**
+- **[Sept, 2024]** <a href="https://pubmed.ncbi.nlm.nih.gov/39231049/" target='_blank'> *WavRx: a Disease-Agnostic, Generalizable, and Privacy-Preserving Speech Health Diagnostic Model*</a>, published at **IEEE Journal of Biomedical Health Informatics**
+- **[Aug. 2024]** <a href="https://www.nature.com/articles/s41597-024-03695-1" target='_blank'> *MSPB:a longitudinal multi-sensor dataset with phenotypic trait measurements from honeybees*</a>, published at **Nature Scientific Data**
+- **[Jan, 2024]** <a href="https://ieeexplore.ieee.org/document/10504772" target='_blank'> *On the Impact of Voice Anonymization on Speech-Based Health Diagnostics*</a>, **published at **IEEE Transactions on Information Forensics and Security**
 
-
-{% include_relative _includes/services.md %}
 
 
 ## Datasets, toolboxes, and other useful resources
 
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
+- <a href="https://github.com/zhu00121/WavRx" target="_blank">WavRx
 - <a href="https://github.com/MuSAELab/Multimodal-dataset-catalog" target="_blank">Multimodal dataset catalog
 - <a href="https://github.com/MuSAELab/COVID_Cough_Phases">Segmented and annotated COVID-19 cough phases
 - <a href="https://github.com/zhu00121/Universal-representation-dynamics-of-deepfake-speech" target="_blank">Modulation Dynamics Block for Generalizable Deepfake Speech Detection</a>
