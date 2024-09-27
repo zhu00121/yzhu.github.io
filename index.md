@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm currently a 4th-year PhD candidate at <a href="https://musaelab.ca/" target="_blank"> Multisensory Signal Analysis and Enhancement Lab (MuSAE)</a>, <a href="https://inrs.ca/en/" target="_blank"> National Institute of Scientific Research (INRS)</a> (Montreal, Canada), supervised by <a href="https://inrs.ca/en/research/professors/tiago-h-falk/" target="_blank"> Prof.Tiago H. Falk</a>.
+I am currently a 4th-year PhD candidate at <a href="https://musaelab.ca/" target="_blank"> Multisensory Signal Analysis and Enhancement Lab (MuSAE)</a>, <a href="https://inrs.ca/en/" target="_blank"> National Institute of Scientific Research (INRS)</a> (Montreal, Canada), supervised by <a href="https://inrs.ca/en/research/professors/tiago-h-falk/" target="_blank"> Prof.Tiago H. Falk</a>. I am also working as an Applied Scientist II at <a href="https://www.realitydefender.com" target="_blank"> Reality Defender </a>
 
 My research is in general focused on learning representations that are generalizable, robust, and explainable from multi modalities (e.g., sound, speech, biosignals, sensor signals). My PhD projects are centered around sound and speech tasks, before that I worked on physiological signals (e.g., sEMG) and human-machine interface during my Master's at UMN.
 
